@@ -1,7 +1,7 @@
 # A-Barrier-Lyapunov-Actor-Critic-Reinforcement-Learning-Approach-for-Safe-and-Stable-Control
 
-Repository containing the code for the paper "A Barrier-Lyapunov Actor-Critic Reinforcement Learning Approach for
-Safe and Stable Control", and this code is developed based on the code: https://github.com/yemam3/SAC-RCBF
+Repository containing the code for the paper ["A Barrier-Lyapunov Actor-Critic Reinforcement Learning Approach for
+Safe and Stable Control"](https://cdc2023.ieeecss.org/), and this code is developed based on the code: https://github.com/yemam3/SAC-RCBF
 
 This repository only contains the code for the algorithms ***Barrier-Lyapunov Actor-Critic (BLAC)*** and ***Barrier ActorCritic (BAC)***, 
 for other algorithms, please refer to:
