@@ -33,17 +33,17 @@ a desired distance from the 3rd car while avoiding collisions with other cars.
 
 ### `Unicycle` Env: 
 * BLAC algorithm: First navigate to the corresponding directory `A-Barrier-Lyapunov-Actor-Critic-Reinforcement-Learning-Approach-for-Safe-and-Stable-Control/BLAC/Unicycle/`, and then use the command:
-`python main.py --env Unicycle --gamma_b 50 --max_episodes 50  --cuda --updates_per_step 2 --batch_size 128 --seed 20 --no_diff_qp --start_steps 1000`
+`python main.py --env Unicycle --gamma_b 50 --max_episodes 50  --cuda --updates_per_step 2 --batch_size 128 --seed 0 --no_diff_qp --start_steps 1000`
 
 * BAC algorithm: First navigate to the corresponding directory `A-Barrier-Lyapunov-Actor-Critic-Reinforcement-Learning-Approach-for-Safe-and-Stable-Control/BAC/Unicycle/`, and then use the command:
-`python main.py --env Unicycle --gamma_b 50 --max_episodes 50  --cuda --updates_per_step 2 --batch_size 128 --seed 20 --no_diff_qp --start_steps 1000`
+`python main.py --env Unicycle --gamma_b 50 --max_episodes 50  --cuda --updates_per_step 2 --batch_size 128 --seed 0 --no_diff_qp --start_steps 1000`
 
 ### `SimulatedCars` Env: 
 * BLAC algorithm: First navigate to the corresponding directory `A-Barrier-Lyapunov-Actor-Critic-Reinforcement-Learning-Approach-for-Safe-and-Stable-Control/BLAC/Simulated Car Following/`, and then use the command:
-`python main.py --env SimulatedCars --gamma_b 50 --max_episodes 50 --cuda --updates_per_step 2 --batch_size 128 --seed 20 --no_diff_qp --start_steps 200`
+`python main.py --env SimulatedCars --gamma_b 50 --max_episodes 50 --cuda --updates_per_step 2 --batch_size 128 --seed 0 --no_diff_qp --start_steps 200`
 
 * BAC algorithm: First navigate to the corresponding directory `A-Barrier-Lyapunov-Actor-Critic-Reinforcement-Learning-Approach-for-Safe-and-Stable-Control/BAC/Simulated Car Following/`, and then use the command:
-`python main.py --env SimulatedCars --gamma_b 50 --max_episodes 50 --cuda --updates_per_step 2 --batch_size 128 --seed 20 --no_diff_qp --start_steps 200`
+`python main.py --env SimulatedCars --gamma_b 50 --max_episodes 50 --cuda --updates_per_step 2 --batch_size 128 --seed 0 --no_diff_qp --start_steps 200`
 
 For the meanings of the parameters, please refer to the `main.py` file.
 ## Others 
