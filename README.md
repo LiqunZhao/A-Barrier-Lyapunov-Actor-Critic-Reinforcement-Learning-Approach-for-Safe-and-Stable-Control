@@ -9,6 +9,7 @@ for other algorithms, please refer to:
 ***LAC***: https://github.com/hithmh/Actor-critic-with-stability-guarantee
 
 ***CPO, PPO-Lagrangian and TRPO-Lagrangian***: https://github.com/openai/safety-starter-agents
+An extension of this work can be found here: https://arxiv.org/abs/2401.13148, with the code: https://github.com/LiqunZhao/Neural-ordinary-differential-equations-based-Lyapunov-Barrier-Actor-Critic-NLBAC
 
 
 ## Installation Requirement
