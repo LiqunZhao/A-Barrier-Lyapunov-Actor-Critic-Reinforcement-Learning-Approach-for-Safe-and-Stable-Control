@@ -10,7 +10,7 @@ for other algorithms, please refer to:
 
 ***CPO, PPO-Lagrangian and TRPO-Lagrangian***: https://github.com/openai/safety-starter-agents
 
-An extension of this work is available at: https://arxiv.org/abs/2401.13148, accompanied by the code repository: https://github.com/LiqunZhao/Neural-ordinary-differential-equations-based-Lyapunov-Barrier-Actor-Critic-NLBAC. The repository features enhanced clarity through additional comments, a well-organized structure, and detailed instructions on easily applying the framework to your customized environments.
+An extension of this work is available at: https://arxiv.org/abs/2401.13148, accompanied by the code repository: https://github.com/LiqunZhao/Neural-ordinary-differential-equations-based-Lyapunov-Barrier-Actor-Critic-NLBAC. This repository features enhanced clarity through additional comments, a well-organized structure, and detailed instructions on easily applying the framework to your customized environments.
 
 
 ## Installation Requirement
